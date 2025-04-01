@@ -1,6 +1,7 @@
-# Fitness-AI
-By using Django
-Fitness.AIO is an all-in-one diet tracker that is used to log what you eat every day as well as calculate your remaining calories and macronutrients (protein, carbohydrates, fats).
+# Fitness.AIO
 
-Class Diagram
-![ClassDiagram](https://github.com/user-attachments/assets/80a634f6-7993-4714-9387-be86813003bd)
+Fitness.AIO is an all-in-one diet tracker that is used to log what you eat everyday 
+as well as calculates your remaining calories and macrosnutrients (protein, carbohydrates, fats).
+
+## Class Diagram
+![Class Diagram](ClassDiagram.png?raw=true "Class Diagram")
